@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Navigation_FindMatch"
+        android:icon="@drawable/baseline_favorite_black_18dp"
+        android:title="Match" />
+    <item
+        android:id="@+id/Navigation_Home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+    <item
+        android:id="@+id/navigation_MyProfile"
+        android:icon="@drawable/baseline_tag_faces_black_18dp"
+        android:title="MyProfile" />
+    <item
+        android:id="@+id/navigation_Conversations"
+        android:icon="@drawable/ic_messages"
+        android:title="Messages" />
+</menu>
